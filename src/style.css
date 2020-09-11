@@ -75,7 +75,7 @@ body {
 }
 
 /* modal */
-.modal {
+.modal-inner {
   position: absolute;
   top: 0;
   left: 0;
